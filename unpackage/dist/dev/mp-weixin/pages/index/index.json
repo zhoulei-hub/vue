@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "van-row": "/wxcomponents/@vant/row/index",
+    "van-col": "/wxcomponents/@vant/col/index",
+    "van-card": "/wxcomponents/@vant/card/index",
+    "van-icon": "/wxcomponents/@vant/icon/index",
+    "van-search": "/wxcomponents/@vant/search/index",
+    "van-overlay": "/wxcomponents/@vant/overlay/index",
+    "van-button": "/wxcomponents/@vant/button/index"
+  }
+}
